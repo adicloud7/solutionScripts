@@ -1,6 +1,7 @@
-# copy the code and paste in terminal
+# copy the code and paste in the terminal
 ```
-curl -L https://github.com/adicloud7/solutionScripts/blob/main/welcome.sh
+curl -LO https://github.com/adicloud7/solutionScripts/blob/main/TEST/welcome.sh
 sudo chmod +x welcome.sh
 ./welcome.sh
 ```
+
